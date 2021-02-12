@@ -48,5 +48,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/DimitarD/ForeverLink.git"
-  }
+  },
+  "keywords": [
+    "link",
+    "react",
+    "react-component",
+    "url"
+  ]
 }
